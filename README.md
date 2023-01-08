@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @simeonokwo
 - 👀 I’m interested in web-app development
-- 🌱 I’m currently learning c#.net and python
+- 🌱 I’m currently learning to be a full stack developer through ALX.
+- 🌹 My languages of interest include: python, c, java, html, react etc.
 - 💞️ I’m looking to collaborate on design of school portal, USSD code development, e-commerce and other apps
 - 📫 How to reach me s2a9ja@gmail.com
 
